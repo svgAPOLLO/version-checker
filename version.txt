@@ -1,3 +1,5 @@
 [grp_police_mission]
-2.0.2
+2.0.0
 
+[grp_bridge]
+1.0.0
