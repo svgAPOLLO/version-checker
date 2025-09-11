@@ -5,8 +5,9 @@
 1.1.0
 
 [grp_database]
-1.1.0
+1.0.0
 
 [grp_aidoc]
 2.0.0
+
 
