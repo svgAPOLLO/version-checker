@@ -13,4 +13,9 @@
 [grp_ai_mechanic]
 0.1.6
 
+[grp_jobcreator]
+2.0.0
+
+[grp_ai_taxi]
+1.0.0
 
