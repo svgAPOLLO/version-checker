@@ -1,8 +1,11 @@
 [grp_police_mission]
 2.1.0
 
+[grp_ems_mission]
+1.0.0
+
 [grp_bridge]
-1.2.0
+1.3.0
 
 [grp_database]
 1.0.0
@@ -18,5 +21,6 @@
 
 [grp_ai_taxi]
 1.0.0
+
 
 
