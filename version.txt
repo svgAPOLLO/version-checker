@@ -8,7 +8,7 @@
 1.3.2
 
 [grp_database]
-1.0.0
+1.0.1
 
 [grp_aidoc]
 2.0.2
@@ -21,6 +21,7 @@
 
 [grp_ai_taxi]
 1.0.1
+
 
 
 
