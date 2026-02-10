@@ -25,6 +25,10 @@
 [grp_ai_taxi]
 1.0.1
 
+[grp_hostage]
+2.0.1
+
+
 
 
 
