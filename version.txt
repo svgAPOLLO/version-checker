@@ -28,6 +28,9 @@
 [grp_hostage]
 2.0.1
 
+[grp_ai_pets]
+1.0.0
+
 
 
 
