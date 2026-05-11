@@ -2,7 +2,7 @@
 2.2.0
 
 [grp_ems_mission]
-1.0.5
+1.1.0
 
 [grp_ai_world]
 2.0.0
