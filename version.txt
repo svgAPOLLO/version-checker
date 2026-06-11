@@ -34,9 +34,6 @@
 [grp_facetracker]
 1.0.1
 
-[grp_testversion]
-1.0.0
-
 
 
 
