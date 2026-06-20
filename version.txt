@@ -1,5 +1,5 @@
 [grp_police_mission]
-2.2.0
+v2.2.1
 
 [grp_ems_mission]
 1.1.0
