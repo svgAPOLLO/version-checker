@@ -29,7 +29,7 @@ v2.2.1
 2.0.1
 
 [grp_ai_pets]
-1.0.4
+1.0.5
 
 [grp_facetracker]
 1.0.1
