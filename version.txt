@@ -37,19 +37,8 @@ v2.2.1
 [grp_carmenu]
 1.0.0
 
+[ttn-bridge]
+1.0.0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[ttn-carmenu]
+1.0.0
