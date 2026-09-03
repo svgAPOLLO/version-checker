@@ -42,3 +42,9 @@
 
 [ttn-carmenu]
 1.0.0
+
+[ttn-ai-npc]
+1.0.0
+
+[ttn-ai-pets]
+1.0.0
