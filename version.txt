@@ -48,3 +48,12 @@
 
 [ttn-ai-pets]
 1.0.0
+
+[ttn-ai-dealer]
+1.0.0
+
+[ttn-ai-voice]
+1.0.0
+
+[ttn-ai-translation]
+1.0.0
