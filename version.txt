@@ -43,17 +43,5 @@
 [ttn-carmenu]
 1.0.0
 
-[ttn-ai-npc]
-1.0.0
-
-[ttn-ai-pets]
-1.0.0
-
-[ttn-ai-dealer]
-1.0.0
-
-[ttn-ai-voice]
-1.0.0
-
-[ttn-ai-translation]
+[ttn-phone]
 1.0.0
