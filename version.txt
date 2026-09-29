@@ -45,3 +45,9 @@
 
 [ttn-phone]
 1.1.0
+
+[solid-bridge]
+1.0.0
+
+[solid-chat]
+1.0.0
