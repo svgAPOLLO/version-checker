@@ -51,3 +51,9 @@
 
 [solid-chat]
 1.0.0
+
+[solid-emotes-vol1]
+1.0.0
+
+[solid-emotes-vol2]
+1.0.0
