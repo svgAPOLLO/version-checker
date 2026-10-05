@@ -57,3 +57,6 @@
 
 [solid-emotes-vol2]
 1.0.0
+
+[solid-injury-emotes]
+1.0.0
