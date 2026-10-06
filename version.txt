@@ -60,3 +60,6 @@
 
 [solid-injury-emotes]
 1.0.0
+
+[solid-scooter]
+1.0.0
