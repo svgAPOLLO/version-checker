@@ -44,7 +44,7 @@
 1.0.0
 
 [ttn-phone]
-1.1.0
+1.1.1
 
 [solid-bridge]
 1.0.0
@@ -62,4 +62,7 @@
 1.0.0
 
 [solid-scooter]
+1.0.0
+
+[solid-hud]
 1.0.0
