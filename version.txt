@@ -66,3 +66,6 @@
 
 [solid-hud]
 1.0.0
+
+[ttn-tablet]
+1.0.0
