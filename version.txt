@@ -67,5 +67,11 @@
 [solid-hud]
 1.0.0
 
+[solid-multichar]
+1.0.0
+
+[solid-spawn]
+1.0.0
+
 [ttn-tablet]
 1.0.0
