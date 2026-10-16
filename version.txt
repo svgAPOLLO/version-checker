@@ -75,3 +75,6 @@
 
 [ttn-tablet]
 1.0.0
+
+[solid-halloween-decor]
+1.0.0
