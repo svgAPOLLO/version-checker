@@ -78,3 +78,6 @@
 
 [solid-halloween-decor]
 1.0.0
+
+[grp_fire_mission]
+1.0.0
