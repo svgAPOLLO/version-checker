@@ -68,7 +68,7 @@
 1.0.0
 
 [solid-multichar]
-1.0.0
+1.0.1
 
 [solid-spawn]
 1.0.0
