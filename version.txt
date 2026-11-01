@@ -47,7 +47,7 @@
 1.1.2
 
 [solid-bridge]
-1.0.1
+1.0.2
 
 [solid-chat]
 1.0.0
@@ -65,13 +65,13 @@
 1.0.0
 
 [solid-hud]
-1.0.0
-
-[solid-multichar]
 1.0.1
 
+[solid-multichar]
+1.0.2
+
 [solid-spawn]
-1.0.0
+1.0.1
 
 [ttn-tablet]
 1.0.0
