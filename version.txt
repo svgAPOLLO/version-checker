@@ -84,3 +84,6 @@
 
 [solid-garage]
 0.1.0
+
+[solid-shellcreator]
+1.0.1
