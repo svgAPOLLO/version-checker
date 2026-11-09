@@ -38,7 +38,7 @@
 1.0.1
 
 [ttn-bridge]
-1.0.0
+1.0.1
 
 [ttn-carmenu]
 1.0.0
