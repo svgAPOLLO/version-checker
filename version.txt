@@ -44,7 +44,7 @@
 1.0.0
 
 [ttn-phone]
-1.1.2
+1.2.0
 
 [solid-bridge]
 1.0.2
